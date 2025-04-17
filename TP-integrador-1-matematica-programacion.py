@@ -13,7 +13,7 @@ while opcion != 7: #ciclo while que se ejecuta mientras opcion sea distinto de 7
     print("7- Salir")
     
     opcion = int(input("Elige una opción: ")) #opcion toma el valor que ingrese el usuario
-    if opcion > 7 or opcion < 0:
+    if opcion > 7 or opcion <= 0:
         print("Opción inválida.")
         break
     
