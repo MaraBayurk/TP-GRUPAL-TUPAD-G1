@@ -42,6 +42,9 @@ def diferenciaSimetrica(conjuntos):
         diferencia_simetrica = diferencia_simetrica_listas(diferencia_simetrica, conj)
     return diferencia_simetrica
 
+""" def diferenciaSimetrica(conjuntos):
+    return set.symmetric_difference(*conjuntos) """
+
 #Calcular la suma de todos los digitos de cada DNI
 def sumaTotal(dnis):
     suma_total = 0
