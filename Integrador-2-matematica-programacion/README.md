@@ -18,5 +18,12 @@ El objetivo principal de este proyecto es desarrollar habilidades de trabajo en 
 
 Este proyecto es desarrollado por los integrantes del Grupo 1 (G1) del curso TUPAD.
 
+- Bayurk Mara Valentina
+- Berrone Lanza Lina Lucia
+- Bonetti Kunt Daniela Sofia
+- Cabrera Dario Ezequiel
+- Benitez Carolina Anabel
+- Bustamante Erica
+
 ---
 **Nota:** Para más información sobre los trabajos específicos, consulta los archivos y carpetas dentro del repositorio.
